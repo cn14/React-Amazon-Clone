@@ -1,0 +1,11 @@
+.checkout__ad {
+	width: 100%;
+	object-fit: contain;
+}
+.checkout__title {
+	padding: 20px;
+}
+.checkout {
+	background-color: #fff;
+	display: flex;
+}
